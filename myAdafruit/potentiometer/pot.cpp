@@ -10,7 +10,7 @@ using namespace std;
 #define CLIENTID   "Beagle1"
 #define TOPIC      "CamGrav/feeds/weather.potentiometer"
 #define AUTHMETHOD "CamGrav"
-#define AUTHTOKEN  "aio_rydJ33iiwrvj23qoZ9O1h009KvJJ"
+#define AUTHTOKEN  "Your-token-here"
 #define QOS        1
 #define TIMEOUT    10000L
 #define ADC_PATH   "/sys/bus/iio/devices/iio:device0/in_voltage"
